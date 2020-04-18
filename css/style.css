@@ -319,7 +319,7 @@ button:focus{
 
 .about-section-box{
 	padding: 70px 0px;
-	background: #ffffff url(../images/about-bg.jpg) no-repeat bottom center;
+	background: #ffffff no-repeat bottom center;
 	background-size: cover;
 }
 .about-section-box .img-fluid{
@@ -619,8 +619,7 @@ button:focus{
 	padding-top: 50px;
 	padding-bottom: 0px;
 }
-.bg-f{
-	background-image: url("../images/footer-bg.jpg");
+.bg-f{	
 	background-attachment: scroll;
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
